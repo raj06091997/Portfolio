@@ -3,8 +3,8 @@
 
 #### *Data Analyst Portfolio*
 #### *Github: [Github](https://github.com/raj06091997/Portfolio)* 
-#### *Personal Website: [datascienceportfol.io/RajG)*
-#### *Linkedin : [Raj Gunjal](www.linkedin.com/in/raj-gunjal-110724138/)* <br />
+#### *Personal Website: [Portfolio](datascienceportfol.io/RajG)*
+#### *Linkedin : [Raj Gunjal](https://www.linkedin.com/in/raj-gunjal-110724138/)* <br />
 
 # *Education* <br/>
 *Btech Electrical Engineering Engineering* <br/>
