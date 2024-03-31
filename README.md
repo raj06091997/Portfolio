@@ -7,7 +7,7 @@
 #### *Linkedin : [Raj Gunjal](https://www.linkedin.com/in/raj-gunjal-110724138/)* <br/>
 
 # *Education* <br/>
-*Btech Electrical Engineering Engineering* <br/>
+*Btech Electrical Engineering * <br/>
 *MS in Information Sysytem from Cleveland State University* <br/>
 
 # *Work Experience* <br/>
