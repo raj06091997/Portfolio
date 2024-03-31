@@ -1,5 +1,5 @@
 # Raj Gunjal
-<img align ="Left" width="150" height="150" src="">
+<img align ="Left" width="150" height="150" src="https://github.com/raj06091997/Portfolio/blob/main/IMG_4831.JPG">
 
 #### *Data Analyst Portfolio*
 #### *Github: [Github](https://github.com/raj06091997/Portfolio)* 
