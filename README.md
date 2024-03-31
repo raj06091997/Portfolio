@@ -27,5 +27,11 @@
 *Agile Development, Database Development, ETL Processes* <br/>
 
 # *Projects* <br/>
-#### *1.* *Python - The Business of Movies* 
-*Complete Project analysis:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/The%20Business%20of%20Movies.ipynb)** <br/>
+#### *1.* *Excel - Applied Regression* 
+*Excel Sheet* **[Here](https://github.com/raj06091997/Portfolio/blob/main/Excel_Applied%20Regression.xlsx)** <br/>
+
+#### *1.* *Excel - Pivot Table And Advance Analysis* 
+*Excel Sheet* **[Here](https://github.com/raj06091997/Portfolio/blob/main/Excel-%20Piviot%20Tables%20and%20advance%20analysis.xlsx)** <br/>
+
+#### *1.* *Excel - Advance Excel For Data Analysis* 
+*Excel Sheet* **[Here](https://github.com/raj06091997/Portfolio/blob/main/Advanced%20Excel%20For%20Data%20Analysis.xlsx)** <br/>
