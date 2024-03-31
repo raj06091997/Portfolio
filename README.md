@@ -7,16 +7,16 @@
 #### *Linkedin : [Raj Gunjal](https://www.linkedin.com/in/raj-gunjal-110724138/)* <br/>
 
 # *Education* <br/>
-*Btech Electrical Engineering * <br/>
+*Btech Electrical Engineering* <br/>
 *MS in Information Sysytem from Cleveland State University* <br/>
 
 # *Work Experience* <br/>
 #### *Business Data Analyst @ Poonam Enterprises (Mumbai, India)*
-*	Reduced data processing time by 20% through the implementation of advanced Excel functions, SQL querying, and data visualization tools like Tableau.* <br/>
-*	Collaborated with cross-functional teams to translate complex data into actionable insights, contributing to a 15% increase in efficiency in decision-making and strategic planning processes.* <br/>
-*	Developed automated reporting systems, resulting in a 25% reduction in report generation time and a 30% improvement in overall workflow efficiency.* <br/>
-*	Implemented data cleansing and normalization techniques, leading to a 20% increase in data accuracy and integrity, thereby enhancing the reliability of analytical insights.* <br/>
-* python, SQL, Excel, Tableau* <br/>
+*Reduced data processing time by 20% through the implementation of advanced Excel functions, SQL querying, and data visualization tools like Tableau.* <br/>
+*Collaborated with cross-functional teams to translate complex data into actionable insights, contributing to a 15% increase in efficiency in decision-making and strategic planning processes.* <br/>
+*Developed automated reporting systems, resulting in a 25% reduction in report generation time and a 30% improvement in overall workflow efficiency.* <br/>
+*Implemented data cleansing and normalization techniques, leading to a 20% increase in data accuracy and integrity, thereby enhancing the reliability of analytical insights.* <br/>
+*python, SQL, Excel, Tableau* <br/>
 
 # *Technical Skills* <br/>
 *Advanced Excel including Pivot Tables and V-Lookups* <br/>
