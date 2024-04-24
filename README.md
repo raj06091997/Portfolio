@@ -11,12 +11,13 @@
 *MS in Information Sysytem from Cleveland State University* <br/>
 
 # *Work Experience* <br/>
-#### *Business Data Analyst @ Poonam Enterprises (Mumbai, India)*
-*Reduced data processing time by 20% through the implementation of advanced Excel functions, SQL querying, and data visualization tools like Tableau.* <br/>
-*Collaborated with cross-functional teams to translate complex data into actionable insights, contributing to a 15% increase in efficiency in decision-making and strategic planning processes.* <br/>
-*Developed automated reporting systems, resulting in a 25% reduction in report generation time and a 30% improvement in overall workflow efficiency.* <br/>
-*Implemented data cleansing and normalization techniques, leading to a 20% increase in data accuracy and integrity, thereby enhancing the reliability of analytical insights.* <br/>
-*python, SQL, Excel, Tableau* <br/>
+#### *Data Analyst @ Canstar India Technologies (Navi Mumbai, India)*
+*Leveraged expertise in data manipulation, statistical analysis, and data visualization to extract actionable insights from intricate datasets, resulting in a 25% increase in efficiency.*<br/>
+*Produced 50+ accurate and impactful reports pivotal in informing strategic decision-making processes within the organization, contributing to a 30% reduction in decision-making time.*<br/>
+*Demonstrated adept problem-solving skills and meticulous attention to detail, ensuring the integrity and quality of analyzed data, leading to a 98% accuracy rate.*<br/>
+*Enhanced data analysis capabilities through proficient use of programming languages, including Python, R, and SQL, resulting in a 40% increase in analytical efficiency.*<br/>
+*Collaborated effectively with cross-functional teams and stakeholders, fostering seamless communication and proactive engagement, resulting in a 20% decrease in project completion time.*<br/>
+*Contributed to the successful execution of numerous projects by employing clear communication skills and a proactive approach to teamwork, leading to a 15% increase in project success rate.*<br/>
 
 # *Technical Skills* <br/>
 *Advanced Excel including Pivot Tables and V-Lookups* <br/>
